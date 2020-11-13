@@ -1,6 +1,6 @@
 <?php
 
-class NetBank {
+class NetBank {kyaw thu
     public function NetBank ($logging = false) {
     }
 
